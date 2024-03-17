@@ -1,4 +1,4 @@
-After reading a comment online that "Boxing ith a bithneth", I couldn't help myself.
+After reading a comment online that "Bokthing ith a bithnith", I couldn't help myself.
 
 This Safari extension is just a bit of fun of course and will make the web read like it had a speech impediment (Sigmatosis: difficulty in pronouncing sibilant consonants).
 
