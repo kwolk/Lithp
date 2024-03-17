@@ -1,3 +1,8 @@
+
+//Lithp
+//
+//Created by Samuel Corke on 17th March 2024
+
 function show(enabled) {
     if (typeof enabled === "boolean") {
         document.body.classList.toggle(`state-on`, enabled);

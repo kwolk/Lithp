@@ -1,3 +1,8 @@
+/**/
+/*Lithp*/
+/**/
+/*Created by Samuel Corke on 17th March 2024.*/
+
 * {
     -webkit-user-select: none;
     -webkit-user-drag: none;
@@ -7,7 +12,7 @@
 :root {
     color-scheme: light dark;
 
-    --spacing: 20px;
+    --spacing: 10px;
 }
 
 html {
